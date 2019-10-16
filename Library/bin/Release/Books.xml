@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <isbn>978-5-17-086728-8</isbn>
+    <author>Андре Моруа</author>
+    <title>Письма незнакомке</title>
+    <publish>АСТ</publish>
+    <year>2015</year>
+    <create>12.01.2016</create>
+  </Book>
+  <Book>
+    <isbn>978-5-699-93011-1</isbn>
+    <author>Данте Алигьери</author>
+    <title>Божественная комедия</title>
+    <publish>Эксмо</publish>
+    <year>2016</year>
+    <create>24.08.2018</create>
+  </Book>
+  <Book>
+    <isbn>978-5-389-13954-1</isbn>
+    <author>Джоан Роулинг</author>
+    <title>Гарри Поттер и Проклятое дитя. Части первая и вторая. Финальная версия сценария</title>
+    <publish>Махаон</publish>
+    <year>2018</year>
+    <create>07.01.2019</create>
+  </Book>
+  <Book>
+    <isbn>978-5-389-07435-4</isbn>
+    <author>Джоан Роулинг</author>
+    <title>Гарри Поттер и философский камень</title>
+    <publish>Махаон</publish>
+    <year>2016</year>
+    <create>18.06.2016</create>
+  </Book>
+  <Book>
+    <isbn>978-5-17-111084-0</isbn>
+    <author>Джордж Мартин</author>
+    <title>Пламя и кровь. Том 1. Кровь драконов</title>
+    <publish>АСТ</publish>
+    <year>2018</year>
+    <create>11.12.2018</create>
+  </Book>
+  <Book>
+    <isbn>978-5-17-112966-8</isbn>
+    <author>Джордж Мартин</author>
+    <title>Пламя и кровь. Том 2. Пляска смерти</title>
+    <publish>АСТ</publish>
+    <year>2019</year>
+    <create>06.01.2019</create>
+  </Book>
+  <Book>
+    <isbn>978-5-17-091382-4</isbn>
+    <author>Дмитрий Глуховский</author>
+    <title>Метро 2033</title>
+    <publish>АСТ</publish>
+    <year>2015</year>
+    <create>18.01.2019</create>
+  </Book>
+  <Book>
+    <isbn>978-5-699-97929-5</isbn>
+    <author>Дэниел Киз</author>
+    <title>Таинственная история Билли Миллигана</title>
+    <publish>Эксмо</publish>
+    <year>2017</year>
+    <create>14.02.2017</create>
+  </Book>
+  <Book>
+    <isbn>978-5-699-55699-1</isbn>
+    <author>Дэниел Киз</author>
+    <title>Цветы для Элджернона</title>
+    <publish>Эксмо</publish>
+    <year>2016</year>
+    <create>11.01.2017</create>
+  </Book>
+  <Book>
+    <isbn>978-5-91339-586-3</isbn>
+    <author>З. Горман, Д. Ройланд</author>
+    <title>Рик и Морти. Нужно больше приключений</title>
+    <publish>Комильфо</publish>
+    <year>2018</year>
+    <create>11.03.2018</create>
+  </Book>
+  <Book>
+    <isbn>978-5-9614-6535-8</isbn>
+    <author>Марк Мэнсон</author>
+    <title>Тонкое искусство пофигизма. Парадоксальный способ жить счастливо</title>
+    <publish>Альпина Паблишер</publish>
+    <year>2018</year>
+    <create>18.01.2019</create>
+  </Book>
+  <Book>
+    <isbn>978-5-389-01686-6</isbn>
+    <author>Михаил Булгаков</author>
+    <title>Мастер и Маргарита</title>
+    <publish>Азбука</publish>
+    <year>2012</year>
+    <create>18.01.2019</create>
+  </Book>
+  <Book>
+    <isbn>978-5-389-13841-4</isbn>
+    <author>Том Хэнкс</author>
+    <title>Уникальный экземпляр. Истории о том о сём</title>
+    <publish>Азбука</publish>
+    <year>2017</year>
+    <create>19.11.2017</create>
+  </Book>
+  <Book>
+    <isbn>978-5-17-087193-3</isbn>
+    <author>Эрих Мария Ремарк</author>
+    <title>Триумфальная арка</title>
+    <publish>АСТ</publish>
+    <year>2016</year>
+    <create>18.01.2019</create>
+  </Book>
+</ArrayOfBook>

@@ -1,0 +1,83 @@
+E:\VSProject\Visual C#\Library\Library\bin\Debug\Library.exe.config
+E:\VSProject\Visual C#\Library\Library\bin\Debug\Library.exe
+E:\VSProject\Visual C#\Library\Library\bin\Debug\Library.pdb
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.AddBook.resources
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.Main.resources
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.Properties.Resources.resources
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.exe
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.pdb
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.ViewBookList.resources
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.AddReader.resources
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.StudentView.resources
+E:\VSProject\Visual C#\Library\Library\obj\Debug\Library.EditBook.resources
+F:\Library\Library\Library\bin\Debug\Library.exe.config
+F:\Library\Library\Library\obj\Debug\Library.exe
+F:\Library\Library\Library\obj\Debug\Library.pdb
+F:\Library\Library\Library\bin\Debug\Library.exe
+F:\Library\Library\Library\bin\Debug\Library.pdb
+F:\Library\Library\Library\bin\Debug\mscorlib.dll
+F:\Library\Library\Library\bin\Debug\ru\mscorlib.resources.dll
+F:\Library\Library\Library\bin\Debug\normidna.nlp
+F:\Library\Library\Library\bin\Debug\normnfc.nlp
+F:\Library\Library\Library\bin\Debug\normnfd.nlp
+F:\Library\Library\Library\bin\Debug\normnfkc.nlp
+F:\Library\Library\Library\bin\Debug\normnfkd.nlp
+F:\Library\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+F:\Library\Library\Library\obj\Debug\Library.AddBook.resources
+F:\Library\Library\Library\obj\Debug\Library.AddReader.resources
+F:\Library\Library\Library\obj\Debug\Library.EditBook.resources
+F:\Library\Library\Library\obj\Debug\Library.Main.resources
+F:\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+F:\Library\Library\Library\obj\Debug\Library.StudentView.resources
+F:\Library\Library\Library\obj\Debug\Library.ViewBookList.resources
+F:\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+F:\Library\Library\Library\obj\Debug\Library.EditReader.resources
+H:\Library\Library\Library\bin\Debug\Library.exe.config
+H:\Library\Library\Library\bin\Debug\Library.exe
+H:\Library\Library\Library\bin\Debug\Library.pdb
+H:\Library\Library\Library\obj\Debug\Library.AddBook.resources
+H:\Library\Library\Library\obj\Debug\Library.AddReader.resources
+H:\Library\Library\Library\obj\Debug\Library.EditBook.resources
+H:\Library\Library\Library\obj\Debug\Library.EditReader.resources
+H:\Library\Library\Library\obj\Debug\Library.Main.resources
+H:\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+H:\Library\Library\Library\obj\Debug\Library.StudentView.resources
+H:\Library\Library\Library\obj\Debug\Library.ViewBookList.resources
+H:\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+H:\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+H:\Library\Library\Library\obj\Debug\Library.exe
+H:\Library\Library\Library\obj\Debug\Library.pdb
+H:\Library\Library\Library\obj\Debug\Library.AddGiv.resources
+H:\Library\Library\Library\obj\Debug\Library.GivList.resources
+H:\Library\Library\Library\obj\Debug\Library.Search.resources
+H:\Library\Library\Library\obj\Debug\Library.SearchResults.resources
+H:\Library\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\практика\Library\Library\Library\bin\Debug\Library.exe.config
+E:\практика\Library\Library\Library\obj\Debug\Library.exe
+E:\практика\Library\Library\Library\obj\Debug\Library.pdb
+E:\практика\Library\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\практика\Library\Library\Library\obj\Debug\Library.AddBook.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.AddGiv.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.AddReader.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.EditBook.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.EditReader.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.GivList.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.Main.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.Search.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.SearchResults.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.StudentView.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.ViewBookList.resources
+E:\практика\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+E:\практика\Library\Library\Library\bin\Debug\Library.exe
+E:\практика\Library\Library\Library\bin\Debug\Library.pdb
+E:\практика\Library\Library\Library\bin\Debug\mscorlib.dll
+E:\практика\Library\Library\Library\bin\Debug\ru\mscorlib.resources.dll
+E:\практика\Library\Library\Library\bin\Debug\normidna.nlp
+E:\практика\Library\Library\Library\bin\Debug\normnfc.nlp
+E:\практика\Library\Library\Library\bin\Debug\normnfd.nlp
+E:\практика\Library\Library\Library\bin\Debug\normnfkc.nlp
+E:\практика\Library\Library\Library\bin\Debug\normnfkd.nlp

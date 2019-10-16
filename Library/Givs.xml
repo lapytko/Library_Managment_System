@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<ArrayOfGiving xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Giving>
+    <id>344352</id>
+    <status>true</status>
+    <create>2019-01-15T16:44:45.3611004+03:00</create>
+    <expirie>2020-12-20T00:00:00</expirie>
+    <reader>23132</reader>
+    <books>
+      <string>978-5-17-112966-8</string>
+      <string>978-5-699-55699-1</string>
+    </books>
+  </Giving>
+  <Giving>
+    <id>721172</id>
+    <status>true</status>
+    <create>2019-01-15T16:49:15.1495343+03:00</create>
+    <expirie>2019-03-12T00:00:00</expirie>
+    <reader>23232</reader>
+    <books>
+      <string>978-5-17-111084-0</string>
+    </books>
+  </Giving>
+  <Giving>
+    <id>208777</id>
+    <status>false</status>
+    <create>2019-01-16T13:37:33.4632614+03:00</create>
+    <expirie>2019-01-15T00:00:00</expirie>
+    <reader>71464</reader>
+    <books>
+      <string>978-5-17-111084-0</string>
+    </books>
+  </Giving>
+</ArrayOfGiving>

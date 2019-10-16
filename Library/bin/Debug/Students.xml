@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Student>
+    <ticket>04735</ticket>
+    <fname>Морозова</fname>
+    <name>Милана</name>
+    <lname>Валентиновна</lname>
+    <bith>1974-08-27T00:00:00</bith>
+    <phone>+375 (25) 686-30-90</phone>
+    <adress>г. Ясеньское, ул. Бориса Галушкина, дом 77, квартира 49</adress>
+  </Student>
+  <Student>
+    <ticket>13010</ticket>
+    <fname>Веселкова</fname>
+    <name>Изабелла</name>
+    <lname>Львовна</lname>
+    <bith>1979-06-22T00:00:00</bith>
+    <phone>+375 (25) 693-47-55</phone>
+    <adress> г. Красноторовка, ул. Конный Переулок, дом 33, квартира 249</adress>
+  </Student>
+  <Student>
+    <ticket>20460</ticket>
+    <fname>Степанов</fname>
+    <name>Владимир</name>
+    <lname>Максович</lname>
+    <bith>1987-01-13T00:00:00</bith>
+    <phone>+375 (44) 362-63-83</phone>
+    <adress> г. Земетчино, ул. А. Космодемьянских, дом 83, квартира 211</adress>
+  </Student>
+  <Student>
+    <ticket>18847</ticket>
+    <fname>Федотов</fname>
+    <name>Автандил</name>
+    <lname>Сергеевич</lname>
+    <bith>1982-03-07T00:00:00</bith>
+    <phone>+375 (29) 353-59-59</phone>
+    <adress> г. Западный, ул. Подбельского, дом 90, квартира 266</adress>
+  </Student>
+  <Student>
+    <ticket>15830</ticket>
+    <fname>Поляков</fname>
+    <name>Дмитрий</name>
+    <lname>Федорович</lname>
+    <bith>1980-03-06T00:00:00</bith>
+    <phone>+375 (33) 652-48-89</phone>
+    <adress>г. Россошь, ул. Вересаева, дом 59, квартира 237</adress>
+  </Student>
+</ArrayOfStudent>
